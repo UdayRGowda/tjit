@@ -1,2 +1,2 @@
 # tjit
-this is my bootcamp priject
+this is my bootcamp project
